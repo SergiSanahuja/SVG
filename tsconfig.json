@@ -1,0 +1,11 @@
+
+{
+    "compilerOptions": {
+        "target": "es2021",       
+        "sourceMap": true,
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "strict": true,
+        "outDir": "out"
+    }
+}
